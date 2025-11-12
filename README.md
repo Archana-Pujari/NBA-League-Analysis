@@ -38,4 +38,4 @@ The primary goal of this analysis was to answer key questions relevant to team p
 
 You can view the spreadsheet in the browser by clicking the link below:
 
-**[NBA Google Sheets Analysis]([https://docs.google.com/spreadsheets/d/e/2PACX-1vQte_n5_PIiMrOdj_jmzKz2lMETDEvAWQjFtVKaiQuSnBBm_HTVXgS3-QBfaBMM9EQcdjPRhQV4k2IN/pubhtml#gid=564331057](https://docs.google.com/spreadsheets/d/e/2PACX-1vQte_n5_PIiMrOdj_jmzKz2lMETDEvAWQjFtVKaiQuSnBBm_HTVXgS3-QBfaBMM9EQcdlPRhQV4k2IN/pubhtml))**
+**[NBA Google Sheets Analysis](https://docs.google.com/spreadsheets/d/e/2PACX-1vQte_n5_PIiMrOdj_jmzKz2lMETDEvAWQjFtVKaiQuSnBBm_HTVXgS3-QBfaBMM9EQcdlPRhQV4k2IN/pubhtml)**
